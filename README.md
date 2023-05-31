@@ -1,13 +1,15 @@
 # TryStuff Smart To Do List
 =========
 
+A smart, auto-categorizing todo list app. The user adds the name of the item, which is then sorted into the correct list.
+
 ## Screenshots
 
-!["Desktop View"](/docs/desktop.png)
 Desktop View
+!["Desktop View"](/docs/desktop.png)
 
-!["Mobile View"](/docs/mobile.png)
 Mobile View
+!["Mobile View"](/docs/mobile.png)
 
 ## Getting Started
 
